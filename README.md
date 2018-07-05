@@ -9,3 +9,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 
 * [01-JavaScriptDrumKit](https://rawgit.com/herminiotorres/JavaScript30/master/01-JavaScriptDrumKit/finish.html)
 * [02-JSandCSSClock](https://rawgit.com/herminiotorres/JavaScript30/master/02-JSandCSSClock/finish.html)
+* [03-CSSVariables](https://rawgit.com/herminiotorres/JavaScript30/master/03-CSSVariables/finish.html)

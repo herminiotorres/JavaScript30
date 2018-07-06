@@ -37,6 +37,7 @@
     .clock {
       width: 70rem;
       height: 70rem;
+      border: 20px solid white;
       border-radius:50%;
       margin:50px auto;
       position: relative;
@@ -58,8 +59,8 @@
       top:50%;
       transform-origin: 100%;
       transform: rotate(90deg);
-      transition: all 0.05s;
-      transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1);
+      /* transition: all 0.05s; */
+      /* transition-timing-function: cubic-bezier(0.1, 2.7, 0.58, 1); */
     }
 
     .second-hand {
@@ -85,21 +86,19 @@
       const now = new Date();
 
       const seconds = now.getSeconds();
-      const secondsDegrees = (((seconds / 60) * 360) + 90);
+      const secondsDegrees = ((seconds * 6) + 90);
       secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
 
       const minutes = now.getMinutes();
-      const minutesDegrees = (((minutes / 60) * 360) + ((seconds / 60) * 6) + 90);
+      const minutesDegrees = ((minutes * 6) + 90);
       minuteHand.style.transform = `rotate(${minutesDegrees}deg)`;
 
       const hours = now.getHours();
-      const hoursDegrees = (((hours / 60) * 360) + ((minutes / 60) * 30) + 90);
+      const hoursDegrees = ((hours * 30) + 90);
       hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
     }
 
     setInterval(setDate, 1000);
-
-    setDate();
   </script>
 </body>
 </html>

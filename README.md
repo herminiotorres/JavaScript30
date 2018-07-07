@@ -13,3 +13,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 * [04-ArrayCardioDay1](https://rawgit.com/herminiotorres/JavaScript30/master/04-ArrayCardioDay1/finish.html)
 * [04-ArrayCardioDay1](https://rawgit.com/herminiotorres/JavaScript30/master/04-ArrayCardioDay1/finish.html)
 * [05-FlexPanelGallery](https://rawgit.com/herminiotorres/JavaScript30/master/05-FlexPanelGallery/finish.html)
+* [06-TypeAhead](https://rawgit.com/herminiotorres/JavaScript30/master/06-TypeAhead/finish.html)

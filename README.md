@@ -17,3 +17,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 * [06-TypeAhead](https://herminiotorres.github.io/JavaScript30/06-TypeAhead/finish.html)
 * [07-ArrayCardioDay2](https://herminiotorres.github.io/JavaScript30/07-ArrayCardioDay2/finish.html)
 * [08-FunwithHTML5Canvas](https://herminiotorres.github.io/JavaScript30/08-FunwithHTML5Canvas/finish.html)
+* [09-DevToolsDomination](https://herminiotorres.github.io/JavaScript30/09-DevToolsDomination/finish.html)

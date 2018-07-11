@@ -110,14 +110,20 @@
     if(event.shiftKey && this.checked) {
       // go ahead and do what we please
       // loop over every single checkbox
-      checkboxes.map(checkbox => {
-        if(checkbox === this || checkbox === lastChecked) {
-          inBetween = !inBetween;
-        }
 
-        if(inBetween) {
-          checkbox.checked = true;
-        }
+      // checkboxes.map(checkbox => {
+      //   if(checkbox === this || checkbox === lastChecked) {
+      //     inBetween = !inBetween;
+      //   }
+
+      //   if(inBetween) {
+      //     checkbox.checked = true;
+      //   }
+      // });
+
+      checkboxes.map(checkbox => {
+        if(checkbox === this || checkbox === lastChecked) inBetween = !inBetween;
+        if(inBetween) checkbox.checked = true;
       });
     }
 

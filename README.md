@@ -18,3 +18,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 * [07-ArrayCardioDay2](https://herminiotorres.github.io/JavaScript30/07-ArrayCardioDay2/finish.html)
 * [08-FunwithHTML5Canvas](https://herminiotorres.github.io/JavaScript30/08-FunwithHTML5Canvas/finish.html)
 * [09-DevToolsDomination](https://herminiotorres.github.io/JavaScript30/09-DevToolsDomination/finish.html)
+* [10-HoldShiftandCheckCheckboxes](https://herminiotorres.github.io/JavaScript30/10-HoldShiftandCheckCheckboxes/finish.html)

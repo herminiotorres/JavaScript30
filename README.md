@@ -19,5 +19,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 * [08-FunwithHTML5Canvas](https://herminiotorres.github.io/JavaScript30/08-FunwithHTML5Canvas/finish.html)
 * [09-DevToolsDomination](https://herminiotorres.github.io/JavaScript30/09-DevToolsDomination/finish.html)
 * [10-HoldShiftandCheckCheckboxes](https://herminiotorres.github.io/JavaScript30/10-HoldShiftandCheckCheckboxes/finish.html)
-* [10-HoldShiftandCheckCheckboxes](https://herminiotorres.github.io/JavaScript30/10-HoldShiftandCheckCheckboxes/finish.html)
 * [11-CustomVideoPlayer](https://herminiotorres.github.io/JavaScript30/11-CustomVideoPlayer/finish.html)

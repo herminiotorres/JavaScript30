@@ -21,3 +21,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 * [10-HoldShiftandCheckCheckboxes](https://herminiotorres.github.io/JavaScript30/10-HoldShiftandCheckCheckboxes/finish.html)
 * [11-CustomVideoPlayer](https://herminiotorres.github.io/JavaScript30/11-CustomVideoPlayer/finish.html)
 * [12-KeySequenceDetection](https://herminiotorres.github.io/JavaScript30/12-KeySequenceDetection/finish.html)
+* [13-SlideinonScroll](https://herminiotorres.github.io/JavaScript30/13-SlideinonScroll/finish.html)

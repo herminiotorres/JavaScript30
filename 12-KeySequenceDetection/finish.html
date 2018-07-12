@@ -6,7 +6,21 @@
   <script type="text/javascript" src="http://www.cornify.com/js/cornify.js"></script>
 </head>
 <body>
+  <h1>Konami sequence for a colorful joy!!</h1>
+  <p>Hint: The sequenze is: <strong><em>up</em></strong>, <strong><em>up</em></strong>, <strong><em>down</em></strong>, <strong><em>down</em></strong>, <strong><em>left</em></strong>, <strong><em>right</em></strong>, <strong><em>left</em></strong>, <strong><em>right</em></strong>, <strong><em>a</em></strong>, <strong><em>b</em></strong></p>
+  <p>😉</p>
+
 <script>
+  const pressed = [];
+  const secretCode = '38384040373937396566';
+  window.addEventListener('keyup', (event) => {
+    pressed.push(event.keyCode);
+    pressed.slice(-secretCode.length - 1, pressed.length - secretCode.length);
+
+    if(pressed.join('').includes(secretCode)) {
+      cornify_add();
+    }
+  });
 </script>
 </body>
 </html>

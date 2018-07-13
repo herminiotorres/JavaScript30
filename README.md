@@ -1,6 +1,8 @@
-![](https://javascript30.com/images/JS3-social-share.png)
+![https://JavaScript30.com](https://javascript30.com/images/JS3-social-share.png)
 
-# JavaScript30
+# JavaScript30 - [@wesbos](https://github.com/wesbos)
+
+30 Day Vanilla JS Challenge, no frameworks, no libraries, no wrappers...
 
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 

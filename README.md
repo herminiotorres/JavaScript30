@@ -28,3 +28,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 * [15-LocalStorage](https://herminiotorres.github.io/JavaScript30/15-LocalStorage/finish.html)
 * [16-MouseMoveShadow](https://herminiotorres.github.io/JavaScript30/16-MouseMoveShadow/finish.html)
 * [17-SortWithoutArticles](https://herminiotorres.github.io/JavaScript30/17-SortWithoutArticles/finish.html)
+* [18-AddingUpTimeswithReduce](https://herminiotorres.github.io/JavaScript30/18-AddingUpTimeswithReduce/finish.html)

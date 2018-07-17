@@ -27,3 +27,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 * [14-JavaScriptReferencesVSCopying](https://herminiotorres.github.io/JavaScript30/14-JavaScriptReferencesVSCopying/finish.html)
 * [15-LocalStorage](https://herminiotorres.github.io/JavaScript30/15-LocalStorage/finish.html)
 * [16-MouseMoveShadow](https://herminiotorres.github.io/JavaScript30/16-MouseMoveShadow/finish.html)
+* [17-SortWithoutArticles](https://herminiotorres.github.io/JavaScript30/17-SortWithoutArticles/finish.html)

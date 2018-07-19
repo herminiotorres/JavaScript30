@@ -9,6 +9,15 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 Github official the course at [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
 
+**_Observations_**
+_Some exercises within your directory have a file called **package.json**. If it have this file, you must have **npm** installed and execute the commands:_
+
+```
+$ npm install
+$ npm start
+```
+
+
 ## List of Exercises
 
 * [01-JavaScriptDrumKit](https://herminiotorres.github.io/JavaScript30/01-JavaScriptDrumKit/finish.html)
@@ -30,3 +39,4 @@ Github official the course at [https://github.com/wesbos/JavaScript30](https://g
 * [17-SortWithoutArticles](https://herminiotorres.github.io/JavaScript30/17-SortWithoutArticles/finish.html)
 * [18-AddingUpTimeswithReduce](https://herminiotorres.github.io/JavaScript30/18-AddingUpTimeswithReduce/finish.html)
 * [19-WebcamFun](https://herminiotorres.github.io/JavaScript30/19-WebcamFun/finish.html)
+* [20-SpeechDetection](https://herminiotorres.github.io/JavaScript30/20-SpeechDetection/finish.html)

@@ -9,7 +9,7 @@ Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
 Github official the course at [https://github.com/wesbos/JavaScript30](https://github.com/wesbos/JavaScript30)
 
-**_Observations_**
+### **_Observations_**
 _Some exercises within your directory have a file called **package.json**. If it have this file, you must have **npm** installed and execute the commands:_
 
 ```

@@ -40,3 +40,4 @@ $ npm start
 * [18-AddingUpTimeswithReduce](https://herminiotorres.github.io/JavaScript30/18-AddingUpTimeswithReduce/finish.html)
 * [19-WebcamFun](https://herminiotorres.github.io/JavaScript30/19-WebcamFun/finish.html)
 * [20-SpeechDetection](https://herminiotorres.github.io/JavaScript30/20-SpeechDetection/finish.html)
+* [21-Geolocation](https://herminiotorres.github.io/JavaScript30/21-Geolocation/finish.html)

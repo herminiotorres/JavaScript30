@@ -1,0 +1,16 @@
+{
+  "name": "javascript-30",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "run-script-os",
+    "start:darwin:linux": "browser-sync start --server --files '**/*.css, **/*.html, **/*.js, !node_modules/**/*' --https --directory --port 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "run-script-os": "^1.0.3"
+  }
+}

@@ -41,3 +41,4 @@ $ npm start
 * [19-WebcamFun](https://herminiotorres.github.io/JavaScript30/19-WebcamFun/finish.html)
 * [20-SpeechDetection](https://herminiotorres.github.io/JavaScript30/20-SpeechDetection/finish.html)
 * [21-Geolocation](https://herminiotorres.github.io/JavaScript30/21-Geolocation/finish.html)
+* [22-FollowAlongLinkHighlighter](https://herminiotorres.github.io/JavaScript30/22-FollowAlongLinkHighlighter/finish.html)

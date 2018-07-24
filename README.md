@@ -44,3 +44,4 @@ $ npm start
 * [22-FollowAlongLinkHighlighter](https://herminiotorres.github.io/JavaScript30/22-FollowAlongLinkHighlighter/finish.html)
 * [23-SpeechSynthesis](https://herminiotorres.github.io/JavaScript30/23-SpeechSynthesis/finish.html)
 * [24-StickyNav](https://herminiotorres.github.io/JavaScript30/24-StickyNav/finish.html)
+* [25-EventCapturePropagationBubblingandOnce](https://herminiotorres.github.io/JavaScript30/25-EventCapturePropagationBubblingandOnce/finish.html)

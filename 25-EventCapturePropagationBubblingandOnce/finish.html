@@ -13,6 +13,8 @@
     </div>
   </div>
 
+  <button></button>
+
 <style>
   html {
     box-sizing: border-box;
@@ -37,9 +39,28 @@
   }
 </style>
 
-<button></button>
 <script>
+  const divs = Array.from(document.querySelectorAll('div'));
+  const button = document.querySelector('button');
 
+  function logText(event) {
+    console.log(this.classList.value);
+//     stop bubbling!
+//    event.stopPropagation();
+  }
+
+//   capture: true, this direction of the propagation of bublling top to down, when is false(default value), is down to top.
+//   once: true, after it hears a one-time click action and will give unbind the event listener
+  divs.map(div => div.addEventListener('click', logText, {
+    capture: false,
+    once: true
+  }));
+
+  button.addEventListener('click', () => {
+    console.log('Click!!!');
+  }, {
+    once: true
+  });
 </script>
 </body>
 </html>

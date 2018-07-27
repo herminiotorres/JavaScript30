@@ -47,3 +47,4 @@ $ npm start
 * [25-EventCapturePropagationBubblingandOnce](https://herminiotorres.github.io/JavaScript30/25-EventCapturePropagationBubblingandOnce/finish.html)
 * [26-StripeFollowAlongNav](https://herminiotorres.github.io/JavaScript30/26-StripeFollowAlongNav/finish.html)
 * [27-ClickandDrag](https://herminiotorres.github.io/JavaScript30/27-ClickandDrag/finish.html)
+* [28-VideoSpeedController](https://herminiotorres.github.io/JavaScript30/28-VideoSpeedController/finish.html)

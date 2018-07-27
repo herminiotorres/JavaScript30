@@ -48,3 +48,4 @@ $ npm start
 * [26-StripeFollowAlongNav](https://herminiotorres.github.io/JavaScript30/26-StripeFollowAlongNav/finish.html)
 * [27-ClickandDrag](https://herminiotorres.github.io/JavaScript30/27-ClickandDrag/finish.html)
 * [28-VideoSpeedController](https://herminiotorres.github.io/JavaScript30/28-VideoSpeedController/finish.html)
+* [29-CountdownTimer](https://herminiotorres.github.io/JavaScript30/29-CountdownTimer/finish.html)

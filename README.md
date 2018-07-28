@@ -17,6 +17,9 @@ $ npm install
 $ npm start
 ```
 
+## List of Resources
+* layout.land
+  * [layout.land - youtube](https://www.layout.land/)
 
 ## List of Exercises
 

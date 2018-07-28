@@ -52,3 +52,4 @@ $ npm start
 * [27-ClickandDrag](https://herminiotorres.github.io/JavaScript30/27-ClickandDrag/finish.html)
 * [28-VideoSpeedController](https://herminiotorres.github.io/JavaScript30/28-VideoSpeedController/finish.html)
 * [29-CountdownTimer](https://herminiotorres.github.io/JavaScript30/29-CountdownTimer/finish.html)
+* [30-WhackAMole](https://herminiotorres.github.io/JavaScript30/30-WhackAMole/finish.html)
